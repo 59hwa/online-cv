@@ -114,17 +114,17 @@ projects:
         tagline: "DEC 2022"
 
 
-# publications:
-#     title: Publications
+publications:
+    title: Publications
 #     intro: |
 #       You can list your publications in this section. Lorem ipsum dolor sit
 #       amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
 #       bibendum fringilla a eu lectus.
-#     papers:
-#       - title: The Art of Computer Programming
-#         link: "#"
-#         authors: Donald E. Knuth
-#         conference: Addison-Wesley, 1968
+    papers:
+      - title: An Abnormal Rack Detection Scheme for ESS Fire Prevention
+        link: "#"
+        authors: S. Park, G. Seo, and E. Hwang
+        conference: 31st Joint Conf. Commun. Info. (JCCI), 2021
 
 #       - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
 #         link: "#"
