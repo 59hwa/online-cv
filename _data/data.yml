@@ -69,7 +69,7 @@ experiences:
       company: IMR, Gwangju
       details: |
         - Analyzed Sound classification artificial intelligence model and researched related technologies.
-        - Developed an ensemble model using Reset and LSTM models to classify real urban sound data.
+        - Developed an ensemble model using ResNet and LSTM models to classify real urban sound data.
         
     - role: Undergraduate Research Intern
       time: January 2021 - December 2021
