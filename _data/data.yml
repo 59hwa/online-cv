@@ -65,22 +65,22 @@ education:
 
 experiences:
     - role: Intern (CUop program)/ AI research team
-      time: 2021
-      company: Startup Hubs, San Francisco
+      time: June 2021 - September 2021
+      company: IMR, Gwangju
       details: |
         - Analyzed Sound classification artificial intelligence model and researched related technologies.
         - Developed an ensemble model using Reset and LSTM models to classify real urban sound data.
         
     - role: Undergraduate Research Intern
-      time: 2021-2022
-      company: Google, London
+      time: January 2021 - December 2021
+      company: Intelligent Information Systems Laboratoty (IISL), in GIST
       details: |
         - Researched the fault detection method to prevent ESS(Energy Storage System) fire by processing real-time information measured in ESS and clustering dimensional compressed data to find abnormal data.
         - Researched how to predict RUL(Remaining Useful Life) and SOC(State of Charge) by learning real-time measurement information of ESS.
         - Researched to develop the EMS(Energy Management System) of a lithium ion battery of EV or ESS.
         
     - role: Undergraduate Research Intern
-      time: 2022-2023
+      time: January 2022 - December 2022
       company: Integrated Circuits and Systems Laboratory (ICSL), in GIST
       details: |
         - Analyzed the machine learning model for classifying touch inputs (force touch, glove touch, etc.) on the touch screen and improving the location accuracy of input
