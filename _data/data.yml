@@ -4,7 +4,7 @@
 
 sidebar:
     about: True # set to False or comment line if you want to remove the "how to use?" in the sidebar
-    education: True # set to False if you want education in main section instead of in sidebar
+    education: False # set to False if you want education in main section instead of in sidebar
 
     # Profile information
     name: SeJin Park
@@ -53,7 +53,7 @@ career-profile:
 
 education:
     - degree: M.Sc in Electrical Engineering
-      university: Pohang University of Science and Technology, Republic of Korea
+      university: POSTECH (Pohang University of Science and Technology), Republic of Korea
       time: 2023 - present
       details: |
         Advisor: Prof. Seokhyeong Kang
